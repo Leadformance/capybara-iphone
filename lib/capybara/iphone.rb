@@ -1,2 +1,5 @@
 require 'capybara'
 require 'capybara/driver/iphone_driver'
+require 'capybara/driver/docomo_driver'
+require 'capybara/driver/au_driver'
+require 'capybara/driver/softbank_driver'
